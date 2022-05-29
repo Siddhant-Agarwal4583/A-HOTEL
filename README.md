@@ -1,1 +1,2 @@
-# A-HOTEL--UI-UX-Project
+# A HOTEL
+UI/UX Project
